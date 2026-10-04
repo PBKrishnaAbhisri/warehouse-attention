@@ -1,7 +1,7 @@
 # From First Principles: Warehouse Demand Attention Model
 
 Author: P.B.Krishna Abhisri
-Demo video: [PASTE GOOGLE DRIVE LINK]
+
 
 A small experiment with two connected parts:
 1. **Scaled dot-product self-attention built from raw tensor operations** (no attention or Transformer
